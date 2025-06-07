@@ -12,9 +12,10 @@
 For example:
 - A **chemistry researcher** can quickly simulate and pinpoint optimal drug delivery parameters.
 - An **ML engineer** can efficiently test various model compononents, hyperparameter and training recipes to enhance model performance.
-    - [How does different loss functions affect the stock prediction model performance?](https://github.com/Just-Curieous/Curie-Use-Cases/tree/main/stock_prediction/q3_loss_function)
+    - [How does different ensemble methods affect the stock prediction model performance?](https://github.com/Just-Curieous/Curie-Use-Cases/tree/main/stock_prediction/q4_ensemble)
 - A **medical researcher** can quickly obtain an end-to-end ML solution on their specific task
+    - [What is the best ML model and training receipe to enhance super-resolution tissue architecture inference?](https://github.com/Just-Curieous/Curie-Use-Cases/tree/main/bio_info/infer_super_resol_tissue_arch)
     - [Predict the severity level of diabetic retinopathy based on retinal images](https://github.com/Just-Curieous/Curie/blob/main/benchmark/mle_bench/aptos2019-blindness-detection)
     - [Histopathologic Cancer Detection](https://github.com/Just-Curieous/Curie/blob/main/benchmark/mle_bench/histopathologic-cancer-detection)
     - [Identify melanoma in images of skin lesions](https://github.com/Just-Curieous/Curie/blob/main/benchmark/mle_bench/siim-isic-melanoma-classification)
-
+    
