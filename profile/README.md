@@ -1,7 +1,7 @@
 # Curie: A Research Experimentation Co-Scientist
 
 
-[Curie](https://github.com/Just-Curieous/Curie) accelerates your research by automating the entire experimentation lifecycle with guaranteed rigor. It enables researchers to quickly verify hypotheses by automating the full workflow: from experiment design and environment setup to execution and analysis. Simply provide your dataset, starter code, or relevant information from literature, and Curie diligently gets to work, tackling your research questions.
+[Curie](https://github.com/Just-Curieous/Curie) accelerates your research by automating the entire experimentation lifecycle with enhanced rigor. It enables researchers to quickly verify hypotheses by automating the full workflow: from experiment design and environment setup to execution and analysis. Simply provide your dataset, starter code, or relevant information from literature, and Curie diligently gets to work, tackling your research questions.
 <div align="center">
   <img src="https://raw.githubusercontent.com/Just-Curieous/Curie/main/docs/static/img/curie-overview.png" width="600px"/>
   <p style="font-size: small; color: gray; margin-top: 5px;">
